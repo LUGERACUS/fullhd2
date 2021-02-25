@@ -23,10 +23,16 @@ http://tv.nousiptv.com:8080/Nancy/12345/4063
 http://tv.nousiptv.com:8080/Nancy/12345/4068
 #EXTINF:-1,FHD - CINEMAX
 http://tv.nousiptv.com:8080/Nancy/12345/4110
-#EXTINF:-1,ENT -COMEDY CENTRAL
-http://tv.nousiptv.com:8080/Nancy/12345/3241
 #EXTINF:-1,FHD - COMEDY CENTRAL
 http://tv.nousiptv.com:8080/Nancy/12345/4039
+
+https://blackghost.live/play/zufree-220.php?c=280&f=.ts
+#EXTINF:-1,Comedy Central
+
+#EXTINF:-1,ENT -COMEDY CENTRAL
+http://tv.nousiptv.com:8080/Nancy/12345/3241
+
+
 #EXTINF:-1,FHD - DISCOVERY CHANNEL
 http://tv.nousiptv.com:8080/Nancy/12345/4069
 #EXTINF:-1,FHD - DISCOVERY HOME & HEALTH
