@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nousiptv.com:8080/Nancy/12345/3247
 #EXTINF:-1,FHD - A&E HD
 http://tv.nousiptv.com:8080/Nancy/12345/4037
 #EXTINF:-1,FHD - AMC
@@ -25,6 +23,8 @@ http://tv.nousiptv.com:8080/Nancy/12345/4063
 http://tv.nousiptv.com:8080/Nancy/12345/4068
 #EXTINF:-1,FHD - CINEMAX
 http://tv.nousiptv.com:8080/Nancy/12345/4110
+#EXTINF:-1,ENT -COMEDY CENTRAL
+http://tv.nousiptv.com:8080/Nancy/12345/3241
 #EXTINF:-1,FHD - COMEDY CENTRAL
 http://tv.nousiptv.com:8080/Nancy/12345/4039
 #EXTINF:-1,FHD - DISCOVERY CHANNEL
